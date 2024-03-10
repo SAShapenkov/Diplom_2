@@ -1,0 +1,1 @@
+{"uuid": "9cee1260-7c88-418f-9b72-4ded6a7155f5", "children": ["1554c692-b873-4a0e-9396-7990114af35d"], "befores": [{"name": "make_random_value", "status": "passed", "steps": [{"name": "Создаем случайное число", "status": "passed", "start": 1710095221565, "stop": 1710095221565}], "start": 1710095221565, "stop": 1710095221565}], "start": 1710095221565, "stop": 1710095221862}
