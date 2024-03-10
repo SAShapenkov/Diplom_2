@@ -15,6 +15,6 @@ pip install -r requirements.txt
 pytest tests --alluredir=allure_results
 4. По завершении сформировать отчет в allure
 allure serve allure_results 
-
+ 
 # Составитель
 Шапенков Сергей
