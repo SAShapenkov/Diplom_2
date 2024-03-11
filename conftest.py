@@ -30,16 +30,6 @@ def create_user_payload():
     return _create_user_payload
 
 
-@pytest.fixture
-@allure.step('Создаем случайное число')
-def make_random_value():
-    return fake.pyint()
-
-@pytest.fixture
-@allure.step('Создаем случайное имя пользователя')
-def make_fake_name():
-    return fake.name()
-
 
 @pytest.fixture
 @allure.step('Конструируем payload для отправки заказа')
